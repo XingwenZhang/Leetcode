@@ -1,2 +1,3 @@
 # Leetcode
-My Leetcode Code
+
+This is my Leetcode solution using C++.
